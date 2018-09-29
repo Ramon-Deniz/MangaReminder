@@ -1,0 +1,54 @@
+.signUp {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 300px;
+}
+
+.signUpPrompt {
+  align-self: center;
+  width: 300px;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.verifyPrompt {
+  align-self: center;
+  width: 300px;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.signUpButtons {
+  align-self: center;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.verifyButtons {
+  align-self: center;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+
+.askToVerify {
+  align-self: center;
+  text-align: center;
+}
+
+.resendCode {
+  margin-top: 10px;
+  align-self: center;
+}

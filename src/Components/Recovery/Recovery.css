@@ -1,0 +1,35 @@
+.recovery {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 300px;
+}
+
+.recoveryTitle {
+    text-align: center;
+    align-self: center;
+    margin-top: 100px;
+    border: 0px solid white;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.recoveryPrompt {
+    align-self: center;
+    width: 300px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.recoverLink {
+    align-self: center;
+}
+
+.recoveryButtons {
+    align-self: center;
+    width: 300px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}

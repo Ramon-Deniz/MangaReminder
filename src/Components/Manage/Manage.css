@@ -1,0 +1,37 @@
+.manage {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 300px;
+}
+
+.manageConfirmationButtons {
+    align-self: center;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 75px;
+}
+
+.manageConfirmation {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 300px;
+    width: 300px;
+}
+
+.mangaList {
+    margin-top: 40px;
+    align-self: center;
+    width: 300px;
+}
+
+.buttons {
+    align-self: center;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 75px;
+}

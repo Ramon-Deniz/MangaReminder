@@ -1,0 +1,35 @@
+.logIn {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 300px;
+}
+
+.logInPrompt {
+  align-self: center;
+  width: 300px;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.logInButtons {
+  align-self: center;
+  width: 300px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.recoveryPromptLink {
+  margin-top: 20px;
+  width: 350px;
+  text-align: center;
+  align-self: center;
+}
+
+.signUpPrompt_LogIn {
+  align-self: center;
+  margin-top: 10px;
+  text-align: center;
+}
